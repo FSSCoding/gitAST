@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.egg
+dist/
+build/
+venv/
+.venv/
+.pytest_cache/
+.coverage
+.gitast/
+*.html
+*.mp3
+.fss-folderscan/

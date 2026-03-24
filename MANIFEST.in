@@ -1,0 +1,17 @@
+include LICENSE
+include README.md
+include CHANGELOG.md
+include icon.png
+recursive-include src/gitast *.py
+exclude MARKET_ANALYSIS.md
+exclude MONETIZING_ANALYSIS.md
+exclude PROJECT_SPEC.md
+exclude ROADMAP.md
+exclude RELEASE_CASE.md
+exclude info-dump.md
+exclude deep-research-report.md
+exclude fss-rag-gitast-report.md
+exclude gitast-overview.md
+exclude QWEN.md
+prune docs
+prune bin
