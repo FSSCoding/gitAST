@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="social-card.png" alt="GitAST — Understand any codebase in 60 seconds" width="640">
+</p>
+
 # GitAST
 
 **Understand any codebase in 60 seconds.**
