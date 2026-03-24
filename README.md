@@ -105,7 +105,7 @@ pip install gitast[all]           # + YAML/TOML config tracking
 From source:
 
 ```bash
-git clone https://github.com/brettfox/gitast
+git clone https://github.com/FSSCoding/gitAST
 cd gitast && pip install -e .[all]
 ```
 

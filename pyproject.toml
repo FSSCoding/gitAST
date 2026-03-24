@@ -59,10 +59,10 @@ all = [
 gitast = "gitast.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/brettfox/gitast"
-Repository = "https://github.com/brettfox/gitast"
-Issues = "https://github.com/brettfox/gitast/issues"
-Changelog = "https://github.com/brettfox/gitast/blob/master/CHANGELOG.md"
+Homepage = "https://github.com/FSSCoding/gitAST"
+Repository = "https://github.com/FSSCoding/gitAST"
+Issues = "https://github.com/FSSCoding/gitAST/issues"
+Changelog = "https://github.com/FSSCoding/gitAST/blob/master/CHANGELOG.md"
 
 [tool.setuptools.packages.find]
 where = ["src"]
